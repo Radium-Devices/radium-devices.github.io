@@ -1,0 +1,21 @@
+<OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+
+<Stable>
+<sprout4>
+<Filename>Team-Radium-1.0-OFFICIAL-sprout4-20150626</Filename>
+<DownloadUrl>
+https://www.androidfilehost.com/
+</DownloadUrl>
+</sprout4>
+</Stable>
+
+<Stable>
+<A0001>
+<Filename>Team-Radium-1.0-OFFICIAL-bacon-20150626</Filename>
+<DownloadUrl>
+https://www.androidfilehost.com
+</DownloadUrl>
+</A0001>
+</Stable>
+
+</OTACenter>
