@@ -1,10 +1,18 @@
 <OTACenter xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+<Stable>
+<shamu>
+<Filename>Team-Radium-1.01-OFFICIAL-shamu-20150704</Filename>
+<DownloadUrl>
+https://www.androidfilehost.com/?w=files&flid=34681
+</DownloadUrl>
+</shamu>
+</Stable>
   
 <Stable>
 <ghost>
-<Filename>Team-Radium-1.0-OFFICIAL-ghost-20150629</Filename>
+<Filename>Team-Radium-1.01-OFFICIAL-ghost-20150704</Filename>
 <DownloadUrl>
-https://www.androidfilehost.com
+https://www.androidfilehost.com/?w=files&flid=34772
 </DownloadUrl>
 </ghost>
 </Stable>
