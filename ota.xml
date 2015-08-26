@@ -27,6 +27,24 @@ http://sourceforge.net/projects/team-radium/files/sprout4/Poised-Radium-1.3-OFFI
 </Stable>
 
 <Stable>
+<sprout8>
+<Filename>Poised-Radium-1.3-OFFICIAL-sprout8-20150825</Filename>
+<DownloadUrl>
+http://sourceforge.net/projects/team-radium/files/sprout8/Poised-Radium-1.3-OFFICIAL-sprout8-20150825.zip/download
+</DownloadUrl>
+</sprout8>
+</Stable>
+
+<Stable>
+<hammerhead>
+<Filename>Poised-Radium-1.3-OFFICIAL-hammerhead-20150825</Filename>
+<DownloadUrl>
+http://sourceforge.net/projects/team-radium/files/hammerhead/Poised-Radium-1.3-OFFICIAL-hammerhead-20150825.zip/download
+</DownloadUrl>
+</hammerhead>
+</Stable>
+
+<Stable>
 <jfltetmo>
 <Filename>Poised-Radium-1.3-OFFICIAL-jfltetmo-20150825</Filename>
 <DownloadUrl>
