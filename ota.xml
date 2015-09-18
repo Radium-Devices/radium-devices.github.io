@@ -72,6 +72,15 @@ http://sourceforge.net/projects/team-radium/files/tomato/Random-Radium-1.4-OFFIC
 </Stable>
 
 <Stable>
+<YUPHORIA>
+<Filename>Random-Radium-1.4-OFFICIAL-lettuce-20150918</Filename>
+<DownloadUrl>
+http://sourceforge.net/projects/team-radium/files/lettuce/Random-Radium-1.4-OFFICIAL-lettuce-20150918.zip/download
+</DownloadUrl>
+</YUPHORIA>
+</Stable>
+
+<Stable>
 <A0001>
 <Filename>Random-Radium-1.4-OFFICIAL-bacon-20150917</Filename>
 <DownloadUrl>
@@ -96,6 +105,15 @@ https://basketbuild.com/filedl/devs?dev=sarathpathari&amp;dl=sarathpathari/Andro
 http://sourceforge.net/projects/team-radium/files/mako/Random-Radium-1.4-OFFICIAL-mako-20150917.zip/download
 </DownloadUrl>
 </mako>
+</Stable>
+
+<Stable>
+<falcon>
+<Filename>Random-Radium-1.4-OFFICIAL-falcon-20150917</Filename>
+<DownloadUrl>
+http://sourceforge.net/projects/team-radium/files/falcon/Random-Radium-1.4-OFFICIAL-falcon-20150917.zip/download
+</DownloadUrl>
+</falcon>
 </Stable>
 
 </OTACenter>
